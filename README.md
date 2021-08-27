@@ -2,10 +2,10 @@
 # Objecctive
 1. read Dataset
 2. Data preprocessing (check missing value, shape, columns, observations and others)
-
-
+3. Oserve the statistical feature in the dataset
 
 Ask some questions and findout the answer from the dataset. Questions like:
+
 1. How many players played for ICC?
 2. How many different countries are present in this dataset? 
 3. Which player(s) had played for the longest period of time?
