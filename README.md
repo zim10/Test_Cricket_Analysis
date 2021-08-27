@@ -2,7 +2,7 @@
 # Objecctive
 1. read Dataset
 2. Data preprocessing (check missing value, shape, columns, observations and others)
-3. Oserve the statistical feature in the dataset
+3. Observe the statistical features in the dataset
 
 Ask some questions and findout the answer from the dataset. Questions like:
 
